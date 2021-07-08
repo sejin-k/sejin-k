@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align=center>
+    <h1>Hi there 👋</h1>
+    <h3>I'm Saejin, an AI Engineer. </br> I’m currently learning AI, Machine Learning and DeepLearning</h3>
+</div>
 
-<!--
-**sejin-k/sejin-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsejin-k&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⚔ Language and Tools
+
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=white) &nbsp; ![Tensorflow](https://img.shields.io/badge/-Tensorflow-%23FF6F00?style=flat-square&logo=Tensorflow&logoColor=white) &nbsp; ![Keras](https://img.shields.io/badge/-Keras-%23D00000?style=flat-square&logo=Keras&logoColor=white)
+
+</br>
+
+## 📫 How to reach me
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saejin7649@gmail.com)](mailto:saejin7649@gmail.com) &nbsp; [![Blog Badge](https://img.shields.io/badge/-blog-%23181717)](https://sj-star.tistory.com/)
+
+</br>
+
+<details>
+<summary>Github Stats 😁(click to expand!)</summary>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejin-k)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
