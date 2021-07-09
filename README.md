@@ -22,6 +22,7 @@
 
 <details>
 <summary>Github Stats 😁(click to expand!)</summary>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejin-k)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Saejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejin-k)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
