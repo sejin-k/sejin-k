@@ -1,6 +1,6 @@
 <div align=center>
     <h1>Hi there 👋</h1>
-    <h3>I'm Saejin, an AI Engineer. </br> I’m currently learning AI, Machine Learning and DeepLearning </br> Specifically, I'm researching on Natural Language Processing using DeepLearning.</h3>
+    <h3>I'm Saejin, an AI Engineer. </br> I’m currently learning <span style="color:skyblue">AI, Machine Learning</span> and <span style="color:skyblue">DeepLearning</span> </br> Specifically, I'm researching on <span style="color:skyblue">Natural Language Processing</span> using DeepLearning.</h3>
 </div>
 
 </br>
