@@ -1,6 +1,6 @@
 <div align=center>
     <h1>Hi there 👋</h1>
-    <h3>I'm Saejin, an AI Engineer. </br> I’m currently learning AI, Machine Learning and DeepLearning</h3>
+    <h3>I'm Saejin, an AI Engineer. </br> I’m currently learning AI, Machine Learning and DeepLearning </br> Specifically, I'm researching on Natural Language Processing using DeepLearning.</h3>
 </div>
 
 </br>
@@ -10,7 +10,7 @@
 
 ## ⚔ Language and Tools
 
-![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=white) &nbsp; ![Tensorflow](https://img.shields.io/badge/-Tensorflow-%23FF6F00?style=flat-square&logo=Tensorflow&logoColor=white) &nbsp; ![Keras](https://img.shields.io/badge/-Keras-%23D00000?style=flat-square&logo=Keras&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=white) &nbsp; ![JAVA](https://img.shields.io/badge/-JAVA-%23007396?style=flat-square&logo=Java&logoColor=white) &nbsp; ![Tensorflow](https://img.shields.io/badge/-Tensorflow-%23FF6F00?style=flat-square&logo=Tensorflow&logoColor=white) &nbsp; ![Keras](https://img.shields.io/badge/-Keras-%23D00000?style=flat-square&logo=Keras&logoColor=white)
 
 </br>
 
